@@ -32,10 +32,6 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 <br>
 
-# PRODUCT DEMO
-
-![Alarm-Clock](https://im2.ezgif.com/tmp/ezgif-2-af6171f312d4.gif)<br>
-
 # LINKS
 
 <a href =//banana-clock.netlify.app//><b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/nitinnegi0112/CLock"> <b>CODE</b> </a> <br>
