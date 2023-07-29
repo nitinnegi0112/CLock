@@ -38,7 +38,7 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 # LINKS
 
-<a href = "https://alarmclock-js.netlify.app/"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/MaanilVerma/Alarm-Clock"> <b>CODE</b> </a> <br>
+/*<a href =//web page host link is mentioned here//>*/ <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/MaanilVerma/Alarm-Clock"> <b>CODE</b> </a> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
